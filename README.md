@@ -12,32 +12,27 @@
 使用的时候遇到任何问题或有好的建议，请点击进入[issue](https://github.com/hai2007/style.css/issues)，欢迎参与维护！
 
 ## How to use?
-如果你开发的是一个web项目，直接在页面引入即可：
-
-```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style">
-```
-
-如果你想通过npm方式管理，首先你需要通过命令行安装，就像这样：
+首先你需要通过命令行安装：
 
 ```bash
 npm install --save @hai2007/style
 ```
 
-安装好了以后，在需要的地方引入即可：
-
-```js
-import '@hai2007/style';
-```
-
-## Style List
-除了上面说的用于浏览器统一样式的基础样式，下面列出所有可用的样式文件，每个都可以在需要的时候独立引入：
+安装好了以后，然后引入你需要的样式文件：
 
 - 统一不同浏览器的基础样式
 
 ```js
 import '@hai2007/style/normalize.css';
 ```
+
+- 十二栅格化
+
+```js
+import '@hai2007/style/rasterize.css';
+```
+
+[<< 查看文档](./apis/rasterize.md)
 
 ## 联系我们
 
@@ -48,4 +43,4 @@ import '@hai2007/style/normalize.css';
 ---------------------------------------
 [MIT](https://github.com/hai2007/style.css/blob/master/LICENSE)
 
-Copyright (c) 2020 hai2007
+Copyright (c) 2020 hai2007 走一步，再走一步。

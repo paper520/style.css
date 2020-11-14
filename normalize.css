@@ -1,7 +1,7 @@
 /*!
-* 统一不同浏览器的基础样式
-* https://github.com/hai2007/style.css/normalize.css
-*/
+ * 统一不同浏览器的基础样式
+ * https://github.com/hai2007/style.css/normalize.css
+ */
 
 html {
     /* 防止iPhone在坚屏转向横屏时放大文字 */
