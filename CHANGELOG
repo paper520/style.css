@@ -1,9 +1,13 @@
 v0.1.0:
-    date:2020-1-14
+    date:2020-11-14
     changes:
       -  初始化版本
       -  添加 “统一不同浏览器的基础样式” normalize.css
 v0.1.1:
-    date:2020-1-14
+    date:2020-11-14
     changes:
       -  添加 “十二栅格化” rasterize.css
+v0.1.2:
+    date:2020-11-17
+    changes:
+      -  添加banner打包头说明文字
