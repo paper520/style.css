@@ -26,10 +26,22 @@ npm install --save @hai2007/style
 import '@hai2007/style/normalize.css';
 ```
 
+或
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style/normalize.css">
+```
+
 - 十二栅格化
 
 ```js
 import '@hai2007/style/rasterize.css';
+```
+
+或
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style/rasterize.css">
 ```
 
 [<< 查看文档](./apis/rasterize.md)
@@ -43,4 +55,4 @@ import '@hai2007/style/rasterize.css';
 ---------------------------------------
 [MIT](https://github.com/hai2007/style.css/blob/master/LICENSE)
 
-Copyright (c) 2020 hai2007 走一步，再走一步。
+Copyright (c) 2020-present hai2007 走一步，再走一步。
