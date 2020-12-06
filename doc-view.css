@@ -75,20 +75,20 @@
 
 /* 列表 */
 
-ul,
-ol {
+.doc-view ul,
+.doc-view ol {
     font-size: 13px;
     line-height: 2.4em;
 }
 
-ul {
+.doc-view ul {
     margin-left: 1.5em;
 }
 
-ol {
+.doc-view ol {
     margin-left: 2.5em;
 }
 
-ol>li {
+.doc-view ol>li {
     list-style-type: decimal;
 }
