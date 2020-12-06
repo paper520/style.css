@@ -7,7 +7,7 @@
 
 使用方法
 ----------------------
- ```
+ ```html
  <div class="container">
     <div class="row">
         <div class="col-xs-6">内容</div>

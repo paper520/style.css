@@ -46,6 +46,20 @@ import '@hai2007/style/rasterize.css';
 
 [<< 查看文档](./apis/rasterize.md)
 
+- 文档样式
+
+```js
+import '@hai2007/style/doc-view.css';
+```
+
+或
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style/doc-view.css">
+```
+
+[<< 查看文档](./apis/doc-view.md)
+
 ## 联系我们
 
 - QQ: 2501482523

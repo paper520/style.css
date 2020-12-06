@@ -1,6 +1,6 @@
 {
   "name": "@hai2007/style",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "👁️ 浏览器兼容样式和一些基础样式。",
   "main": "normalize.css",
   "repository": {
