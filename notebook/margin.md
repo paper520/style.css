@@ -7,7 +7,7 @@ margin的意思很容易明白，就是外边距，用更通俗的话说，就�
 
 margin有许多需要注意的地方，比如块级元素垂直相邻外边距会合并，行内元素实际上不占上下外边距，左右外边距也不会合并，浮动元素的外边距也不会合并。
 
-普通元素的margin百分百是按照父级元素（正确的说应该是包含块，具体可以看这篇文章关于CSS中设置overflow属性的值为hidden的相关理解）的宽来计算的，而绝对定位的元素的margin百分比是按照第一个定位元素（relative，absolute和fixed）的宽来计算的。
+普通元素的margin百分百是按照父级元素（正确的说应该是包含块，具体可以看这篇文章[关于CSS中设置overflow属性的值为hidden的相关理解](./overflow-hidden.md)）的宽来计算的，而绝对定位的元素的margin百分比是按照第一个定位元素（relative，absolute和fixed）的宽来计算的。
 
 ## 第二步：block元素重叠。
 
