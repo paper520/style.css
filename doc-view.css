@@ -92,3 +92,30 @@
 .doc-view ol>li {
     list-style-type: decimal;
 }
+
+/* 重要内容 */
+
+.doc-view .important {
+    color: rgb(255, 0, 0);
+    font-weight: 800;
+}
+
+/* 可点击链接 */
+
+.doc-view .link {
+    color: rgb(59, 59, 180);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.doc-view .link:hover {
+    color: rgb(0, 0, 255);
+    font-weight: 800;
+}
+
+/* 过时标记 */
+
+.doc-view .outdated {
+    text-decoration: line-through;
+    text-decoration-color: red;
+}

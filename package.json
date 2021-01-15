@@ -1,6 +1,6 @@
 {
   "name": "@hai2007/style",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "description": "👁️ 浏览器兼容样式和一些基础样式。",
   "main": "normalize.css",
   "repository": {
@@ -12,7 +12,7 @@
     "style",
     "normalize"
   ],
-  "author": "hai2007",
+  "author": "你好2007",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hai2007/style.css/issues"

@@ -55,4 +55,28 @@ p标签表示一个段落
 </ul>
 ```
 
+- 重要内容
+
+```html
+<div class='important'>
+    // todo
+</div>
+```
+
+- 可点击链接
+
+```html
+<div class='link'>
+    // todo
+</div>
+```
+
+- 过时标记
+
+```html
+<div class='outdated'>
+    // todo
+</div>
+```
+
 [<< 返回首页](../README.md)
