@@ -1,7 +1,7 @@
-Tranform + Transitions + Animation
+Transform + Transitions + Animation
 ======================
 
-## Tranform 转换
+## Transform 转换
 
 ### 一些常用的属性：
 
