@@ -6,6 +6,9 @@
   <a href="https://www.jsdelivr.com/package/npm/@hai2007/style"><img src="https://data.jsdelivr.com/v1/package/npm/@hai2007/style/badge" alt="CDN"></a>
   <a href="https://www.npmjs.com/package/@hai2007/style"><img src="https://img.shields.io/npm/v/@hai2007/style.svg" alt="Version"></a>
   <a href="https://github.com/hai2007/style.css/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/@hai2007/style.svg" alt="License"></a>
+    <a href="https://github.com/hai2007/style.css">
+        <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/hai2007/style.css?style=social">
+    </a>
 </p>
 
 ## Issues
@@ -67,11 +70,6 @@ import '@hai2007/style/doc-view.css';
 - [z-index 层叠上下文和层叠水平](./notebook/z-index.md)
 - [Transform + Transitions + Animation](./notebook/Transform-Transitions-Animation.md)
 - [margin 外边距](./notebook/margin.md)
-
-## 联系我们
-
-- QQ: 2501482523
-- Email: 2501482523@qq.com
 
 开源协议
 ---------------------------------------
