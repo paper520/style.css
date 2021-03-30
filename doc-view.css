@@ -82,11 +82,15 @@
 }
 
 .doc-view ul {
-    margin-left: 1.5em;
+    margin-left: 2.5em;
 }
 
 .doc-view ol {
     margin-left: 2.5em;
+}
+
+.doc-view ul>li {
+    list-style-type: circle;
 }
 
 .doc-view ol>li {
@@ -98,6 +102,7 @@
 .doc-view .important {
     color: rgb(255, 0, 0);
     font-weight: 800;
+    padding: 0 10px;
 }
 
 /* 可点击链接 */
@@ -106,6 +111,7 @@
     color: rgb(59, 59, 180);
     cursor: pointer;
     text-decoration: underline;
+    padding: 0 10px;
 }
 
 .doc-view .link:hover {
