@@ -1,7 +1,7 @@
 关于CSS单位%的一些总结
 ======================
 
-> Tips：关于包含块的知识，可以先看看[《关于CSS中设置overflow属性的值为hidden的相关理解》](./notebook/overflow-hidden.md)这篇文章，下面会涉及到。
+> Tips：关于包含块的知识，可以先看看[《关于CSS中设置overflow属性的值为hidden的相关理解》](./overflow-hidden.md)这篇文章，下面会涉及到。
 
 ## height 高
 
