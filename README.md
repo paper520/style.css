@@ -70,6 +70,7 @@ import '@hai2007/style/doc-view.css';
 - [z-index 层叠上下文和层叠水平](./notebook/z-index.md)
 - [Transform + Transitions + Animation](./notebook/Transform-Transitions-Animation.md)
 - [margin 外边距](./notebook/margin.md)
+- [关于CSS单位%的一些总结](./notebook/percent.md)
 
 开源协议
 ---------------------------------------
