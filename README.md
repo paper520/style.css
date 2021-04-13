@@ -63,15 +63,6 @@ import '@hai2007/style/doc-view.css';
 
 [<< 查看文档](./apis/doc-view.md)
 
-## CSS笔记
-
-- [关于CSS中设置overflow属性的值为hidden的相关理解](./notebook/overflow-hidden.md)
-- [vertical-align:垂直对齐方式相关说明](./notebook/vertical-align.md)
-- [z-index 层叠上下文和层叠水平](./notebook/z-index.md)
-- [Transform + Transitions + Animation](./notebook/Transform-Transitions-Animation.md)
-- [margin 外边距](./notebook/margin.md)
-- [关于CSS单位%的一些总结](./notebook/percent.md)
-
 开源协议
 ---------------------------------------
 [MIT](https://github.com/hai2007/style.css/blob/master/LICENSE)
